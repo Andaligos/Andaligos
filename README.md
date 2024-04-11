@@ -1,5 +1,7 @@
-### Hi there, I'm Andrey 👋
-
+<div id="header" align="center">
+  <h1>Hi there, I'm Andrey 👋</h1>
+  <h3>Project Manager</h3>
+</div>  
 <!--
 **Andaligos/Andaligos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
